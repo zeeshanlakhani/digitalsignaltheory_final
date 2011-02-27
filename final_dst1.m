@@ -1,6 +1,3 @@
-%Zeeshan Lakhani
-%DST Final Project
-%December 13, 2007
 %TIME SCALING
 %Ths function is all about time scaling(stretching) and implements two
 %different implementations...one in the time domain and one in the
