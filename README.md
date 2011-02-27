@@ -8,3 +8,5 @@ This repository contains MATLAB code (as well as examples) for my final project 
 [play file phase_vocoder - slowed down](https://github.com/lscmoscar/digitalsignaltheory_final/raw/master/time-scaled%20files/forChadphasevo.wav)
 
 [play file sola - sped up](https://github.com/lscmoscar/digitalsignaltheory_final/raw/master/time-scaled%20files/forChadsola.wav)
+
+##### I apologize ahead of time for any chaotic or bad code!
